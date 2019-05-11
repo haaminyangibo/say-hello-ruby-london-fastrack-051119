@@ -7,4 +7,4 @@ else
   puts "hello ruby programmer!"
 end
 
-say_hello("haami")
+say_hello
